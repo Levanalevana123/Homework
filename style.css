@@ -1,0 +1,22 @@
+body {background-color: rgb(150, 84, 26);
+    text-align: center;
+}
+
+#q {
+    font-size: 50px;
+    font-weight: 100;
+    color: rgb(0, 0, 0);
+}
+.Reeducate {
+    font-size: 25px;
+    font-weight: 50;
+    color: rgb(249, 229, 164);
+}
+header {
+    font-weight: 100;
+    font-size: 50px;
+}
+video {
+    width: 100%;
+    height: 100%;
+}
